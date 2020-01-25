@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("TEST");
+	printf("kostya");
 	return 0;
 }
